@@ -1,2 +1,2 @@
-# mirepositorio.github.io
+# landpage
 Mi portafolio aparecerá en poco tiempo.
